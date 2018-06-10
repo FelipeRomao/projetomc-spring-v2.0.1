@@ -1,5 +1,6 @@
 package com.feliperomao.cursomc.resources.exception;
 
+
 import javax.servlet.http.HttpServletRequest;
 
 import org.springframework.http.HttpStatus;
